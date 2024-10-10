@@ -103,9 +103,10 @@ include 'db.php';
 
 <nav>
     <a href="index.html">Home</a>
-    <a href="homepage.html">Search</a>
-    <a href="help.html">Help</a>
-    <a href="contact.html">Contact</a>
+    <a href="homepage.php">Home</a>
+    <a href="search.php">Search</a>
+    <a href="help.php">Help</a>
+    <a href="contact.php">Contact</a>
 </nav>
 
 <div class="container">
