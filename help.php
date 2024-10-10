@@ -93,7 +93,7 @@ include 'db.php';
     </ul>
     
     <h2>Contact Us</h2>
-    <p>If you need further assistance, feel free to <a href="contact.html">contact us</a> and we will respond to your queries as soon as possible.</p>
+    <p>If you need further assistance, feel free to <a href="contact.php">contact us</a> and we will respond to your queries as soon as possible.</p>
 
 </div>
 
